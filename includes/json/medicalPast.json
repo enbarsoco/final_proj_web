@@ -1,0 +1,119 @@
+{
+    "pateints": [
+        {
+            "id": 2,
+            "date": [
+                {
+                    "day": 20,
+                    "month": "SEP 2020"
+                },
+                {
+                    "day": 21,
+                    "month": "FEB 2021"
+                }
+            ],
+            "sickness": [
+                {
+                    "diagnosis": "Colds and Flu",
+                    "doctor": "DR. Soualhi, General Doctor"
+                },
+                {
+                    "diagnosis": "COVID - 19",
+                    "doctor": "DR. Rahmani, Gastroenterologist"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "date": [
+                {
+                    "day": 20,
+                    "month": "SEP 2018"
+                },
+                {
+                    "day": 21,
+                    "month": "AUG 2021"
+                }
+            ],
+            "sickness": [
+                {
+                    "diagnosis": "Hospitalisation: ICHILOV, Appendicits",
+                    "doctor": "DR. Kolez, General Doctor"
+                },
+                {
+                    "diagnosis": "COVID - 19",
+                    "doctor": "DR. Rahmani, Gastroenterologist"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "date": [
+                {
+                    "day": 20,
+                    "month": "AUG 2019"
+                },
+                {
+                    "day": 21,
+                    "month": "JUN 2020"
+                }
+            ],
+            "sickness": [
+                {
+                    "diagnosis": "Hospitalisation: ICHILOV",
+                    "doctor": "DR. Sam Cohen, General Doctor"
+                },
+                {
+                    "diagnosis": "COVID - 19",
+                    "doctor": "DR. Eli Natan, Gastroenterologist"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "date": [
+                {
+                    "day": 20,
+                    "month": "SEP 2020"
+                },
+                {
+                    "day": 21,
+                    "month": "FEB 2021"
+                }
+            ],
+            "sickness": [
+                {
+                    "diagnosis": "Allergies",
+                    "doctor": "DR. Soualhi, General Doctor"
+                },
+                {
+                    "diagnosis": "Stomach Aches",
+                    "doctor": "DR. Rahmani, Gastroenterologist"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "date": [
+                {
+                    "day": 26,
+                    "month": "SEP 2020"
+                },
+                {
+                    "day": 21,
+                    "month": "OCT 2020"
+                }
+            ],
+            "sickness": [
+                {
+                    "diagnosis": "Headaches",
+                    "doctor": "DR. Soualhi, General Doctor"
+                },
+                {
+                    "diagnosis": "Mononucleosis",
+                    "doctor": "DR. Rahmani, Gastroenterologist"
+                }
+            ]
+        }
+    ]
+}
